@@ -7,5 +7,6 @@ dependencies:
   - hvplot
   - jupyterlab=2
   - jupyter-panel-proxy
+  - msgpack-python=1.0.0 
   - panel
   - xarray
