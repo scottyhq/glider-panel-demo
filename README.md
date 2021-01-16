@@ -1,15 +1,9 @@
 # glider-panel-demo
 Demo of how to use holoviz to visualize gliderdata
 
-Launch interactive Panel App with MyBinder.org:
+test on pangeo binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhruvbalwada/glider-panel-demo/main?urlpath=%2Fpanel%2Fholoviz_gliderdash)
-
-
-Launch Jupyter Lab Interface:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhruvbalwada/glider-panel-demo/main?urlpath=lab)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/scottyhq/glider-panel-demo/main?urlpath=%2Fpanel%2Fholoviz_gliderdash)
 
 Run locally (note, can take a few minutes for code app to appear due to data loading)
 ```
